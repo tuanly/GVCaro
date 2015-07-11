@@ -1,0 +1,2 @@
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\Code đồ án game caro\[Sharecode.vn] Source code game co caro full code c# + bao cao\Ca ro\GomokuGame\obj\Debug\GomokuGame.exe
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\Code đồ án game caro\[Sharecode.vn] Source code game co caro full code c# + bao cao\Ca ro\GomokuGame\obj\Debug\GomokuGame.pdb
